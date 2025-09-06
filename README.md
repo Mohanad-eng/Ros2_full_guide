@@ -2,7 +2,7 @@
 this Repo is a full guide in Ros2 jazyy and inside it content , projects , and articles and more.
 there are three branches:
 
-first branch fir beginners it contain:
+first branch for beginners it contain:
 
 1- publishers and subscribers and topics.
 
